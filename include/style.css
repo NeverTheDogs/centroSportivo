@@ -1,0 +1,59 @@
+
+/*
+body {  font-family: Arial, Helvetica, sans-serif; font-size: 12px}
+p {  font-family: Arial, Helvetica, sans-serif; font-size: 12px}
+h1 {  font-family: Arial, Helvetica, sans-serif; font-size: 14px}
+a:hover {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #996633; text-decoration: none}
+td {  font-family: Arial, Helvetica, sans-serif; font-size: 12px}
+*/
+a
+{
+	font-weight: bold;
+	font-family:"Comic Sans MS", cursive, sans-serif;
+	font-size:30px;
+	color: #E1E1E1;
+
+}
+
+img.resize
+{
+  max-width:100%;
+  max-height:100%;
+}
+
+body
+{
+	background-size: 30%;
+	background-position: top;
+	background-image: url("sfondo1.jpg");
+	/*background-color:#00A000;*/
+	background-color:#BF4100;
+	background-repeat: repeat;
+
+}
+
+p
+{
+	font-family:Times, sans-serif;
+	font-size:35px;
+	font-weight: bold;
+	color:#BF4100;
+	background-color:#E1E1E1;
+	background-size:100%;
+	text-align:center;
+
+}
+
+b
+{
+	font-family:"Comic Sans MS", cursive, sans-serif;
+	font-size:25px;
+	color:#E1E1E1;
+}
+
+i
+{
+	font-size:25px;
+	color: #BF4100;
+	background-color:#E1E1E1;
+}
